@@ -3,6 +3,8 @@
 namespace Brackets\Media\HasMedia;
 
 use Spatie\MediaLibrary\Conversions\ConversionCollection;
+use Spatie\Image\Enums\Fit;
+
 
 /**
  * @property-read boolean $autoProcessMedia
